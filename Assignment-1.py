@@ -26,7 +26,6 @@ print(low_stock)
 
 #Q3: Calculate category wise revenue
 category_revenue = {}
-
 for i in inventory:
     category = i[1]
     price = i[2]
